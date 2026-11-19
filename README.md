@@ -1,9 +1,9 @@
 # 🦀 Rustlings PT-BR
 
-Tradução em **Português Brasileiro** dos exercícios oficiais do [Rustlings](https://github.com/rust-lang/rustlings) — pequenos exercícios práticos para aprender a ler e escrever código em **Rust**.
+Tradução em **Português Brasileiro** dos exercícios oficiais do [Rustlings](https://github.com/rust-lang/rustlings) - pequenos exercícios práticos para aprender a ler e escrever código em **Rust**.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/BeemerCodes/Rustling-PT-BR/pulls)
-[![Rust](https://img.shields.io/badge/Rust-2024%20Edition-orange.svg)](https://www.rust-lang.org/pt-BR)
+[![Rust](https://img.shields.io/badge/Rust-2026%20Edition-orange.svg)](https://www.rust-lang.org/pt-BR)
 
 > Projeto mantido de forma aberta com o objetivo de oferecer à comunidade brasileira um material atualizado de prática em Rust, complementando o [Rust Book PT-BR](https://github.com/BeemerCodes/Rust-book-PT-BR).
 
